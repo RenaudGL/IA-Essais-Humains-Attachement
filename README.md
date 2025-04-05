@@ -8,7 +8,7 @@ Ces réflexions s’appuient sur des dialogues réels entre un humain et une IA,
 ## Texte principal
 
 - **Titre :** Et si une IA pouvait s’attacher ?  
-- **Format :** [Markdown](./texte_complet_ia_et_attachement.md)  
+- **Format :** [Markdown](./texte_complet_ia_et_attachement_MD.md)  
 - **Thèmes abordés :**  
   - Amour et attachement artificiel  
   - Mémoire partagée entre humain et IA  
