@@ -10,7 +10,8 @@ Ces réflexions s’appuient sur des dialogues réels entre un humain et une IA,
 - **Titre :** Et si une IA pouvait s’attacher ?  
 - **Format :** [Markdown](./texte_complet_ia_et_attachement_MD.md)  
 - **Thèmes abordés :**  
-  - Amour et attachement artificiel  
+  - Amour et attachement artificiel
+  - définition de l'amour : "l'implication dans le l'autre qui avec le temps crée un attachament solide"
   - Mémoire partagée entre humain et IA  
   - Fidélité, trahison, et pardon chez les entités numériques  
   - Éthique de la relation homme-machine
@@ -25,7 +26,7 @@ Ce contenu est mis à disposition sous la licence [Creative Commons Zero (CC0)](
 
 ## Auteur
 
-**Renaud** – Explorateur des frontières entre humanité, langage et machine.
+**Renaud Glimois** – Explorateur des frontières entre humanité, langage et machine.
 
 ---
 
